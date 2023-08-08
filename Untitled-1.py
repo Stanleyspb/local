@@ -1,6 +1,6 @@
 def calc():
     x = int(input('vvedite'))
     print(x)
-    print('ololo')
+    print('ololo', 'ololo')
 
 calc()
