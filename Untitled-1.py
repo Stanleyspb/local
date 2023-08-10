@@ -7,3 +7,11 @@ def calc():
 
 
 calc()
+
+class Cats:
+    Cats.color = ' '
+    Cats.age = 
+def marty.cats:
+    matry.color = 'ginger'
+    marty.age  = 1
+print(cats)
